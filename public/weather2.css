@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color:gold;
+}
+.info{
+    background-color:azure;
+    margin:10% ;
+    padding: 10px;
+}
+.img img{
+    margin-bottom: 100px;
+    margin-left :43%; 
+}
+.head h1{
+        position:relative;
+    color: black;
+    font-family:'Courier New', Courier, monospacex  ;
+}
+.head img{
+    height: 50px;
+}
